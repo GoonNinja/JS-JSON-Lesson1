@@ -38,15 +38,26 @@
       "image": "strawberry-sprinkle.svg"
     },
     {
-      "name": "Caramel Crumble",
-      "calories": 425,
-      "type": "frozen yogurt",
+      "name": "Caramel Fudge Crumble",
+      "calories": 690,
+      "type": "ice cream",
       "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "caramel",
+        "cookie crumble",
+        "fudge"
       ],
       "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Cotton Candy Explosion",
+      "calories": 420,
+      "type": "ice cream",
+      "ingredients": [
+        "bubble gum",
+        "sprinkles",
+        "gummy worms"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
