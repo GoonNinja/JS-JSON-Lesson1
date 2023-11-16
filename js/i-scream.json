@@ -27,17 +27,6 @@
       "image": "peach-mango.svg"
     },
     {
-      "name": "Stupendous Strawberry",
-      "calories": 425,
-      "type": "frozen yogurt",
-      "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
-      ],
-      "image": "strawberry-sprinkle.svg"
-    },
-    {
       "name": "Caramel Crumble",
       "calories": 425,
       "type": "frozen yogurt",
