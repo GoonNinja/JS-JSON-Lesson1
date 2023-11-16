@@ -9,8 +9,6 @@ body {
 	/* transition: all 1s; */
 }
 
-h1, h2 {
-}
 
 /* header styles */
 
@@ -28,19 +26,23 @@ header p {
 /* section styles */
 section {
 	display: flex;
+	flex-direction: column-reverse;
 	justify-content: space-between;
-	margin-bottom: 5rem;
+	align-items: center;
 }
 section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
 	padding: 2.5%;
-	width: 25%
+	width: 400px;
+  text-align: center; /* Center the content within the article */
+  margin-bottom: 1em;
 }
+
 article img {
-	display: block;
+	width: 150px;
 	height: 150px;
-	width: 90px;
+	margin: 0 auto; /* Center the image horizontally */
 }
 section p {
   margin: 5px 0;
@@ -48,6 +50,7 @@ section p {
 
 section ul {
   margin-top: 0;
+  list-style-type: none;
 }
 
 h2 {
